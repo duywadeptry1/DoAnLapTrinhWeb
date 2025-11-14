@@ -38,3 +38,9 @@ Clone bằng HTTPS là cách phổ biến nhất để tải project.
 Bạn không cần tài khoản GitHub để tải dự án bằng HTTPS.
 
 Nếu muốn push code, bạn phải đăng nhập GitHub hoặc dùng Personal Access Token.
+
+File thay đổi? → git add
+
+Muốn lưu thay đổi? → git commit
+
+Muốn đẩy lên GitHub? → git push
